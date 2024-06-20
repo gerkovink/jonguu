@@ -37,8 +37,8 @@ You **may use** any and all content in this presentation - including my name - a
 :::
 Source:
 
-- [www.gerkovink.com/fsw60y](https://www.gerkovink.com/fsw60y)
-- [github.com/gerkovink/fsw60y](https://github.com/gerkovink/fsw60y)
+- [www.gerkovink.com/jonguu](https://www.gerkovink.com/jonguu)
+- [github.com/gerkovink/jonguu](https://github.com/gerkovink/jonguu)
 
 ## First of all
 ::: {.callout-tip}
