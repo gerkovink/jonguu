@@ -69,18 +69,19 @@ Some common examples of generative AI technologies include:
 
 - Automated essay scoring and feedback: AI models can grade essays and provide feedback to students on their writing.
 
-## What is generative AI?
-![](img/gpt1.png)
+## What does genAI *think* it is? 
+![](img/gpt1.png) 
 
-## What does it thinks it looks like?
+
+## What does it *think* it looks like?
 
 ![](img/gpt2.png)
 
-## What does it thinks it looks like?
+## What does it *think* it looks like?
 
 ![](img/gpt3.png)
 
-## Does it think it is smart?
+## Does it *think* it is smart?
 ![](img/gpt4.png)
 
 ## No need for humans, then?
